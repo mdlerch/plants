@@ -1,0 +1,16 @@
+Family Photo
+##############
+
+:date: 2014-05-22 10:20
+:modified:
+:tags:
+:category:
+:slug: 14-05-22
+:authors: Michael
+:summary:
+
+Here's the family photo under the grow light:
+
+.. image:: {filename}/images/0522142049-400x400.jpg
+    :alt: Family Photo
+    :target: {filename}/images/0522142049.jpg
