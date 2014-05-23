@@ -1,5 +1,5 @@
 PY=python3
-PELICAN=pelican
+PELICAN=/home/mike/.virtualenvs/pelican/bin/pelican
 PELICANOPTS=
 
 BASEDIR=$(CURDIR)
