@@ -1,6 +1,7 @@
 PY=python3
-PELICAN=/home/mike/.virtualenvs/pelican/bin/pelican
+PELICAN=source /home/mike/.virtualenvs/pelican/bin/activate; pelican
 PELICANOPTS=
+GHP_IMPORT=source /home/mike/.virtualenvs/pelican/bin/activate; ghp-import
 
 BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/content
@@ -102,7 +103,7 @@ cf_upload: publish
 	cd $(OUTPUTDIR) && swift -v -A https://auth.api.rackspacecloud.com/v1.0 -U $(CLOUDFILES_USERNAME) -K $(CLOUDFILES_API_KEY) upload -c $(CLOUDFILES_CONTAINER) .
 
 github: publish
-	ghp-import $(OUTPUTDIR)
+	${GHP_IMPORT} $(OUTPUTDIR)
 	git push origin gh-pages
 
 .PHONY: html help clean regenerate serve devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github
