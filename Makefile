@@ -2,6 +2,7 @@ PY=python3
 PELICAN=source /home/mike/.virtualenvs/pelican/bin/activate; pelican
 PELICANOPTS=
 GHP_IMPORT=source /home/mike/.virtualenvs/pelican/bin/activate; ghp-import
+PELICANACTIVATE=source /home/mike/.virtualenvs/pelican/bin/activate
 
 BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/content
@@ -64,9 +65,10 @@ regenerate:
 
 serve:
 ifdef PORT
-	cd $(OUTPUTDIR) && $(PY) -m pelican.server $(PORT)
+	$(PELICANACTIVATE); cd $(OUTPUTDIR) && $(PY) -m pelican.server $(PORT)
 else
-	cd $(OUTPUTDIR) && $(PY) -m pelican.server
+	$(PELICANACTIVATE); cd $(OUTPUTDIR) && $(PY) -m pelican.server
+
 endif
 
 devserver:
