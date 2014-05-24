@@ -1,8 +1,6 @@
 PY=python3
-PELICAN=source /home/mike/.virtualenvs/pelican/bin/activate; pelican
+PELICAN=pelican
 PELICANOPTS=
-GHP_IMPORT=source /home/mike/.virtualenvs/pelican/bin/activate; ghp-import
-PELICANACTIVATE=source /home/mike/.virtualenvs/pelican/bin/activate
 
 BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/content
@@ -65,10 +63,9 @@ regenerate:
 
 serve:
 ifdef PORT
-	$(PELICANACTIVATE); cd $(OUTPUTDIR) && $(PY) -m pelican.server $(PORT)
+	cd $(OUTPUTDIR) && $(PY) -m pelican.server $(PORT)
 else
-	$(PELICANACTIVATE); cd $(OUTPUTDIR) && $(PY) -m pelican.server
-
+	cd $(OUTPUTDIR) && $(PY) -m pelican.server
 endif
 
 devserver:
@@ -105,7 +102,7 @@ cf_upload: publish
 	cd $(OUTPUTDIR) && swift -v -A https://auth.api.rackspacecloud.com/v1.0 -U $(CLOUDFILES_USERNAME) -K $(CLOUDFILES_API_KEY) upload -c $(CLOUDFILES_CONTAINER) .
 
 github: publish
-	${GHP_IMPORT} $(OUTPUTDIR)
+	ghp-import $(OUTPUTDIR)
 	git push origin gh-pages
 
 .PHONY: html help clean regenerate serve devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github
