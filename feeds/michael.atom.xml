@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Plants</title><link href="http://mdlerch.github.io/plants/" rel="alternate"></link><link href="http://mdlerch.github.io/plants/feeds/.atom.xml" rel="self"></link><id>http://mdlerch.github.io/plants/</id><updated>2014-07-11T00:00:00-06:00</updated><entry><title>Update</title><link href="http://mdlerch.github.io/plants/update.html" rel="alternate"></link><updated>2014-06-06T12:10:00-06:00</updated><author><name>Michael</name></author><id>tag:mdlerch.github.io,2014-06-06:plants/update.html</id><summary type="html">&lt;!-- Status: hidden --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Plants</title><link href="http://mdlerch.github.io/plants/" rel="alternate"></link><link href="http://mdlerch.github.io/plants/feeds/michael.atom.xml" rel="self"></link><id>http://mdlerch.github.io/plants/</id><updated>2014-07-11T00:00:00-06:00</updated><entry><title>More Plant Food</title><link href="http://mdlerch.github.io/plants/morefood.html" rel="alternate"></link><updated>2014-07-10T14:17:00-06:00</updated><author><name>Michael</name></author><id>tag:mdlerch.github.io,2014-07-10:plants/morefood.html</id><summary type="html">&lt;!-- Status: hidden --&gt;
+
+&lt;p&gt;Gave the plants some more plant food today.  The orange blossom has appeared a
+bit wilty lately.  The habenero in the cloth pot seems to have a number of
+bugs on it.  I didn't really see the same on any of the other peppers.  I
+sprayed the habenero's with windex.&lt;/p&gt;</summary><category term="tag1"></category></entry><entry><title>Plants outside</title><link href="http://mdlerch.github.io/plants/14-06-10.html" rel="alternate"></link><updated>2014-06-09T14:49:00-06:00</updated><author><name>Michael</name></author><id>tag:mdlerch.github.io,2014-06-09:plants/14-06-10.html</id><summary type="html">&lt;!-- Status: hidden --&gt;
+
+&lt;p&gt;"Final" transplanting.  In the garden:  2 habaneros, 2 jalepenos, 2 bells. 1
+sun sugar, 1 goliath.  And the strawberries.&lt;/p&gt;
+&lt;p&gt;Everything else in pots.  Peppers are in second to largest of my plastic pots.
+ Also have a habanero and jalepeno together in the cloth pot.&lt;/p&gt;</summary><category term="tag1"></category></entry><entry><title>Update</title><link href="http://mdlerch.github.io/plants/update.html" rel="alternate"></link><updated>2014-06-06T12:10:00-06:00</updated><author><name>Michael</name></author><id>tag:mdlerch.github.io,2014-06-06:plants/update.html</id><summary type="html">&lt;!-- Status: hidden --&gt;
 
 &lt;p&gt;An update:&lt;/p&gt;
 &lt;p&gt;Went almost a week without watering.&lt;/p&gt;
@@ -21,10 +31,7 @@ the plants were too small to top, but I didn't want to wait too long to do it
 either.&lt;/p&gt;</summary><category term=""></category></entry><entry><title>Too much water</title><link href="http://mdlerch.github.io/plants/toomuchwater.html" rel="alternate"></link><updated>2014-05-30T20:17:00-06:00</updated><author><name>Michael</name></author><id>tag:mdlerch.github.io,2014-05-30:plants/toomuchwater.html</id><summary type="html">&lt;!-- Status: hidden --&gt;
 
 &lt;p&gt;I am pretty sure I am giving the plants too much water.  Especially the
-peppers.  Peppers I will now water every other day max.&lt;/p&gt;</summary><category term=""></category></entry><entry><title>Transfer Orange Blossom</title><link href="http://mdlerch.github.io/plants/transferob.html" rel="alternate"></link><updated>2014-05-30T20:16:00-06:00</updated><author><name>Michael Lerch</name></author><id>tag:mdlerch.github.io,2014-05-30:plants/transferob.html</id><summary type="html">&lt;!-- Status: hidden --&gt;
-
-&lt;p&gt;I transferred the Orange Blossom to a 5 gallon bucket today.  Hope he prefers
-that.&lt;/p&gt;</summary><category term=""></category></entry><entry><title>Oregano water</title><link href="http://mdlerch.github.io/plants/oregano.html" rel="alternate"></link><updated>2014-05-29T22:32:00-06:00</updated><author><name>Michael</name></author><id>tag:mdlerch.github.io,2014-05-29:plants/oregano.html</id><summary type="html">&lt;!-- Status: hidden --&gt;
+peppers.  Peppers I will now water every other day max.&lt;/p&gt;</summary><category term=""></category></entry><entry><title>Oregano water</title><link href="http://mdlerch.github.io/plants/oregano.html" rel="alternate"></link><updated>2014-05-29T22:32:00-06:00</updated><author><name>Michael</name></author><id>tag:mdlerch.github.io,2014-05-29:plants/oregano.html</id><summary type="html">&lt;!-- Status: hidden --&gt;
 
 &lt;p&gt;Did some reading and I think that the oregano has gotten too much water.
 Probably the other plants also have had too much water but almost definitely
@@ -70,12 +77,4 @@ buy a couple more plants.&lt;/p&gt;
 &lt;p&gt;One of the yellow peppers is a doubler.&lt;/p&gt;
 &lt;p&gt;Transplanted the new plants to larger containers.&lt;/p&gt;</summary><category term=""></category></entry><entry><title>Weeding</title><link href="http://mdlerch.github.io/plants/14-05-15.html" rel="alternate"></link><updated>2014-05-15T14:09:00-06:00</updated><author><name>Michael</name></author><id>tag:mdlerch.github.io,2014-05-15:plants/14-05-15.html</id><summary type="html">&lt;p&gt;Weeded and tilled garden.  There were a lot of weeds but I pulled them all
 out.  Dug down about a foot and loosened up dirt.&lt;/p&gt;</summary><category term=""></category></entry><entry><title>Garden</title><link href="http://mdlerch.github.io/plants/14-05-14.html" rel="alternate"></link><updated>2014-05-14T14:08:00-06:00</updated><author><name>Michael</name></author><id>tag:mdlerch.github.io,2014-05-14:plants/14-05-14.html</id><summary type="html">&lt;p&gt;I have a garden! I can use the other plot.  Just need to plant some
-strawberries for Shane.&lt;/p&gt;</summary><category term=""></category></entry><entry><title>Outside</title><link href="http://mdlerch.github.io/plants/14-05-13.html" rel="alternate"></link><updated>2014-05-13T00:00:00-06:00</updated><author><name>Michael</name></author><id>tag:mdlerch.github.io,2014-05-13:plants/14-05-13.html</id><summary type="html">&lt;p&gt;Starting to put plants outside on nice days&lt;/p&gt;</summary><category term=""></category></entry><entry><title>Transplanted (picture)</title><link href="http://mdlerch.github.io/plants/14-05-11.html" rel="alternate"></link><updated>2014-07-11T00:00:00-06:00</updated><author><name>Michael Lerch</name></author><id>tag:mdlerch.github.io,2014-05-11:plants/14-05-11.html</id><summary type="html">&lt;p&gt;Transplanted from planters into larger pots.  Approximately 12 inch pots.&lt;/p&gt;
-&lt;p&gt;Here's a picture&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://mdlerch.github.io/plants/images/0511141659.jpg"&gt;&lt;img alt="Plants under grow light" src="http://mdlerch.github.io/plants/images/0511141659-400x400.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;</summary><category term=""></category></entry><entry><title>Purchased plants</title><link href="http://mdlerch.github.io/plants/14-05-10.html" rel="alternate"></link><updated>2014-07-11T00:00:00-06:00</updated><author><name>Michael Lerch</name></author><id>tag:mdlerch.github.io,2014-05-10:plants/14-05-10.html</id><summary type="html">&lt;p&gt;Purchased Plants!&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;2 Sun sugar tomatoes&lt;/li&gt;
-&lt;li&gt;1 Orange blossom tomato&lt;/li&gt;
-&lt;li&gt;4 pack of jalepeno&lt;/li&gt;
-&lt;li&gt;4 pack of habenero&lt;/li&gt;
-&lt;/ul&gt;</summary><category term=""></category></entry></feed>
+strawberries for Shane.&lt;/p&gt;</summary><category term=""></category></entry><entry><title>Outside</title><link href="http://mdlerch.github.io/plants/14-05-13.html" rel="alternate"></link><updated>2014-05-13T00:00:00-06:00</updated><author><name>Michael</name></author><id>tag:mdlerch.github.io,2014-05-13:plants/14-05-13.html</id><summary type="html">&lt;p&gt;Starting to put plants outside on nice days&lt;/p&gt;</summary><category term=""></category></entry></feed>
